@@ -34,8 +34,8 @@
 - 💡 [TailorWale - AI-based Tailoring App](#)
 - 📊 [Expense Tracker (Firebase + SMS Parsing)](#)
 - 📷 [Python Camera Sensing App (OpenCV)](#)
-- 📚 [eBook Selling Platform with Razorpay](#)
-- 🧑‍💼 [Portfolio Website](#)
+- 📚 [eBook Selling Platform with Razorpay](https://theenhancedguide.rf.gd/?i=1)
+- 🧑‍💼 [Portfolio Website](https://subhashverm.github.io/Portfolio/)
 
 ---
 
